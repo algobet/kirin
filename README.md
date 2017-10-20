@@ -1,9 +1,9 @@
 # kirin
-Official javascript framework of the Kirin protocol.
+Official javascript framework of the Digital Asset Platform (DAP) protocol atop the POS/POR consensus mechanism.
 
-Kirin is the Quarkonium's first generation constitutional protocols deeply built with the Algorand.
+Kirin is the Quarkonium's first generation constitutional protocols deeply built with the Algorand blockchain.
 
-Kirin framework is the lightweight implementation of POS/POR consensus mechanism atop the Algorand blockchain. Pure protocol demonstration available at:
+This lightweight implementation bridges the Algorand and various elementary constitutional protocols. Demonstration available at:
 - [DAO/lychee](https://github.com/algobet/lychee)
 - [DAS/sesame](https://github.com/algobet/sesame)
 
